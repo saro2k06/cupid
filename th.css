@@ -7,7 +7,7 @@ h1{
     font-weight: bold;
     color: black;
     background-image: linear-gradient(red accent,soft purple);
-    border: solid 20px FF6F61(0,225,255)
+    border: solid 30px rgb(0,225,255)
    
 
 }
