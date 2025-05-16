@@ -1,0 +1,13 @@
+h1{
+    width: 30%;
+    padding: 20px; 
+    margin:50px auto;
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+    background-image: linear-gradient(red,yellow);
+    border: solid 30px rgb(0,225,255)
+   
+
+}
