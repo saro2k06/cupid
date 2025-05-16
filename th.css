@@ -6,8 +6,8 @@ h1{
     font-style: poppins;
     font-weight: bold;
     color: black;
-    background-image: linear-gradient(red accent,soft purple);
-    border: solid 30px rgb(0,225,255)
+    background-image: linear-gradient(red,purple);
+    border: solid 10px rgb(4, 20, 50)
    
 
 }
