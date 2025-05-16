@@ -19,8 +19,8 @@ setTimeout (() =>{
     setTimeout (() =>{
     document.getElementById("count").innerHTML=1
     setTimeout (() =>{
-    document.getElementById("count").innerHTML="HAPPY NEW YEAR"
-    console.log("HAPPY NEW YEAR")
+    document.getElementById("count").innerHTML="love you thangoo"
+    console.log("love you thangoo")
     },2000)
 
 },2000)
