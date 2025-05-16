@@ -19,8 +19,8 @@ setTimeout (() =>{
     setTimeout (() =>{
     document.getElementById("count").innerHTML=1
     setTimeout (() =>{
-    document.getElementById("count").innerHTML="hello bro"
-    console.log("hello bro")
+    document.getElementById("count").innerHTML="love you thangoo"
+    console.log("love you thangoo")
     },2000)
 
 },2000)
